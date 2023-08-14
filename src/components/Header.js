@@ -15,7 +15,7 @@ const Header = ({setNavMobile}) => {
         <div className='flex items-center justify-between'>
           {/* Logo */}
           <a href="#">
-            <img className='h-[75px]' src={VRLogo} alt="" />
+            <img className='h-[65px]' src={VRLogo} alt="" />
           </a>
           {/* Nav */}
           <Nav />

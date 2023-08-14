@@ -8,7 +8,7 @@ import Img from '../assets/img/banner-img.png';
 
 const Banner = () => {
   return (
-    <section className='min-h-[600px] pt-20 pb-12 text-center relative lg:pb-0 lg:text-left'>
+    <section className='min-h-[600px] pt-19 pb-12 text-center relative lg:pb-0 lg:text-left'>
       <div className="container mx-auto">
         <div className='flex flex-col lg:flex-row'>
           {/* text */}
