@@ -3,7 +3,7 @@ import React from 'react';
 // import components
 import Logo from '../assets/img/logo.svg';
 import Nav from './Nav';
-import VRLogo from '../assets/img/VRlogo-1.png';
+import VRLogo from '../assets/img/VRlogo-2.png';
 
 // import icons
 import { HiMenu } from 'react-icons/hi';
