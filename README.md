@@ -1,4 +1,4 @@
-# SuvroVR - Virtual Reality Application
+# suVRo - Virtual Reality Application
 
 SuvroVR is a cutting-edge virtual reality application built using React, Tailwind CSS, and Aos animations. Immerse yourself in stunning virtual environments and experience a new dimension of interactivity and immersion.
 
