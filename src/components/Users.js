@@ -28,7 +28,7 @@ const Users = () => {
       </div>
       <div className='flex items-center space-x-2 font-secondary font-medium'>
         <BsFillCircleFill className='text-xs text-green-500 animate-pulse'/>
-        <div>500+ people online</div>
+        <div>1k+ people online</div>
       </div>
     </div>
   );

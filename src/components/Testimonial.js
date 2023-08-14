@@ -13,7 +13,7 @@ const Testimonial = () => {
             <p className='max-w-2xl mx-auto mb-12 lg:mb-24' data-aos='fade-up' data-aos-offset='300' data-aos-delay='1800'>Immersive and mind-blowing! Our clients can't stop raving about the jaw-dropping experience our SuvroVR app delivers.</p>
           </div>
           {/* Slider */}
-          <div data-aos='fade-up' data-aos-offset='300' data-aos-delay='2000'>
+          <div data-aos='fade-up' data-aos-offset='300' data-aos-delay='1000'>
             <TestimonialSlider />
           </div>
         </div>
